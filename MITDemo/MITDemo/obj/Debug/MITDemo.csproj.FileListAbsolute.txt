@@ -1,0 +1,6 @@
+C:\Users\pxb\workspace\MITDemo\MITDemo\MITDemo\bin\Debug\MITDemo.exe.config
+C:\Users\pxb\workspace\MITDemo\MITDemo\MITDemo\bin\Debug\MITDemo.exe
+C:\Users\pxb\workspace\MITDemo\MITDemo\MITDemo\bin\Debug\MITDemo.pdb
+C:\Users\pxb\workspace\MITDemo\MITDemo\MITDemo\obj\Debug\MITDemo.csprojResolveAssemblyReference.cache
+C:\Users\pxb\workspace\MITDemo\MITDemo\MITDemo\obj\Debug\MITDemo.exe
+C:\Users\pxb\workspace\MITDemo\MITDemo\MITDemo\obj\Debug\MITDemo.pdb
